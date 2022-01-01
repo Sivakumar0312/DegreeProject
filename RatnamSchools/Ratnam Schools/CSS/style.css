@@ -1,0 +1,119 @@
+.navbar-nav{
+	padding-top: 20px;
+	font-size: 20px;
+}
+.fas2{
+	font-size: 35px;
+	color:red; 
+}
+.ratnam{
+	font-size: 30px;
+	padding-left: 40px;
+}
+img{
+	margin-top: 5px;
+	height: 600px;
+
+}
+.jumbotron{
+	font-size: 40px;
+	text-align: center;
+	 }
+.card:hover{
+	box-shadow: 0px 0px 7px 3px #0d0d0d;
+}
+.search{
+	margin-top: 85px;
+}
+#econ{
+	font-size: 20px;
+	margin-top: 10px;
+}
+.contact{
+	margin-top: 100px;
+}
+label{
+	font-size: 25px;
+	color:black;
+}
+.btn-success{
+	margin-left: 150px;
+}
+.button{
+	margin-left: 250px;
+}
+h2{
+	color: red;
+}
+.form2{
+	position: absolute;
+	z-index: -1;
+	opacity: 0.6;
+}
+.jum{
+	margin-top: 120px;
+	
+   
+    min-width: 100%;
+    object-fit: fill;
+    
+  
+}
+.col-md-8 img{
+	height: 470px;
+}
+.cards{
+	background-image: url(../images/img1.jpg);
+}
+.card-body img{
+	height: 200px;
+	width: 360px;
+}
+.modal-body img{
+	height: 250px;
+	width: 400px;
+}
+.khaja{
+	height: 50px;
+	width: 100%;
+}
+.left{
+	height: 49px;
+	width: 70%;
+	float: left;
+	font-size: 17px;
+	margin-top: 10px;
+}
+.right{
+	height: 49px;
+	width: 20%;
+	float: right;
+	margin-top: 15px;
+	font-size: 25px;
+}
+.image img{
+	height: 300px;
+	width: 500px;
+}
+.image img:hover{
+	box-shadow: 0px 0px 6px 2px black;
+}
+.jumbo{
+	font-size: 20px;
+	color: #45f4f7;
+}
+#india{
+	text-align: center;
+	font-style: italic;
+}
+.box img{
+	height: 200px;
+	width: 250px;
+	border-radius: 50%;
+	border:2px solid black;
+	margin-left: 40px;
+}
+.safe{
+	font-size: 20px;
+	margin-left: 15px;
+}
